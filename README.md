@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on interesting Web Projects
 - 📫 How to reach me: 
 - ✉ charleschinedum2@gmail.com
+- https://twitter.com/yvngKampa
 
 <!---
 CharlesChinedum/CharlesChinedum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
