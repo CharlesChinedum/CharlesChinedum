@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Charles Chinedum
-- 👨🏽‍💻 I currently work with; Html, Css, Javascript, jQuery, React, Nextjs, Nuxt, Astro, Typescript, Golang and lots of modern libraries like TailwindCss and styled-components
+- 👋 Hi, I’m Ugbor Charles
+- 👨🏽‍💻 I currently work with; Html, Css, Javascript, jQuery, React, Nextjs, Nuxt, Astro, Typescript, Node, Express, Mongo, Golang and lots of modern libraries like TailwindCss and styled-components
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Fullstack Web Development
+- 🌱 I’m currently learning Fullstack Web Development and Mobile Development with React Native
 - 💞️ I’m looking to collaborate on interesting Web Projects
 - 📫 How to reach me: 
 - ✉ charleschinedum2@gmail.com
