@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ugbor Charles
-- 👨🏽‍💻 I currently build with; React, Nextjs, Vue3, Nuxt, Astro, Typescript, Node, Express, Mongo, Golang and lots of modern libraries like TailwindCss and styled-components
+- 👨🏽‍💻 I currently build with; Rust, React, Nextjs, Vue3, Nuxt, Astro, Typescript, Node, Express, Mongo, Golang and lots of modern libraries like TailwindCss and styled-components
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning Fullstack Web Development and Mobile Development with React Native
 - 💞️ I’m looking to collaborate on interesting Web Projects
