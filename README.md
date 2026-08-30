@@ -19,7 +19,7 @@ I'm a **Smart Contract & Fullstack Engineer**. I write and test **Solidity** wit
 | Project | What it is | Built with |
 |---|---|---|
 | **[Goto](https://github.com/CharlesChinedum/goto-cli)** · [site](https://goto.trulynedum.dev/) | A cross-platform CLI tool to bookmark directories with short names and jump to them instantly from anywhere | Go, Shell |
-| **[Portfolio](https://github.com/CharlesChinedum/chinedum)** · [site](https://www.trulynedum.dev) | This very website — static, fast, and SEO-tuned | Astro, Tailwind CSS |
+| **[Portfolio](https://github.com/CharlesChinedum/chinedum)** · [site](https://www.trulynedum.dev) | My portfolio website — static, fast, and SEO-tuned | Astro, Tailwind CSS |
 
 I've also shipped professional work for products like [Keble](https://www.keble.co), [Vorge](https://www.vorge.io/), [Whipcare](https://whipcare.app/), and [Escalade Homes](https://escaladehomes.ng) — more on my [projects page](https://www.trulynedum.dev/projects).
 
