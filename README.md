@@ -23,6 +23,14 @@ I'm a **Smart Contract & Fullstack Engineer**. I write and test **Solidity** wit
 
 I've also shipped professional work for products like [Keble](https://www.keble.co), [Vorge](https://www.vorge.io/), [Whipcare](https://whipcare.app/), and [Escalade Homes](https://escaladehomes.ng) — more on my [projects page](https://www.trulynedum.dev/projects).
 
+## 🏃 Speedrun Ethereum
+
+Completed challenges from [Speedrun Ethereum](https://speedrunethereum.com), each deployed to a testnet with a live frontend. Full series: [all repos](https://github.com/search?q=user%3ACharlesChinedum+topic%3Aspeedrun-ethereum&type=repositories)
+
+| # | Challenge | What it covers | Links |
+|---|---|---|---|
+| 1 | **[Tokenization](https://github.com/CharlesChinedum/speed-run-ethereum-challenge-tokenization)** | ERC-721 minting, transfers and onchain ownership, with IPFS metadata pinned via Pinata | [live](https://speed-run-ethereum-challenge-tokenization.vercel.app) · [contract](https://sepolia.etherscan.io/address/0x76F287F1219bEd724417706251001bE4ab9151Ed#code) |
+
 ## 🔐 Security research — [@the-africandev](https://github.com/the-africandev)
 
 I audit smart contracts competitively and independently:
