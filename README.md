@@ -25,7 +25,7 @@ I've also shipped professional work for products like [Keble](https://www.keble.
 
 ## 🏃 Speedrun Ethereum
 
-Completed challenges from [Speedrun Ethereum](https://speedrunethereum.com), each deployed to a testnet with a live frontend. Full series: [all repos](https://github.com/search?q=user%3ACharlesChinedum+topic%3Aspeedrun-ethereum&type=repositories) · [builder profile](https://speedrunethereum.com/builders/0xYOUR_ADDRESS)
+Completed challenges from [Speedrun Ethereum](https://speedrunethereum.com), each deployed to a testnet with a live frontend. Full series: [all repos](https://github.com/search?q=user%3ACharlesChinedum+topic%3Aspeedrun-ethereum&type=repositories) · [builder profile](https://speedrunethereum.com/builders/0x66b95799A17B14de9f59C7D35039508947DAF239)
 
 | # | Challenge | What it covers | Links |
 |---|---|---|---|
