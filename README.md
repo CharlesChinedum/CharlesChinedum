@@ -29,7 +29,7 @@ Completed challenges from [Speedrun Ethereum](https://speedrunethereum.com), eac
 
 | # | Challenge | What it covers | Links |
 |---|---|---|---|
-| 1 | **[Tokenization](https://github.com/CharlesChinedum/speed-run-ethereum-challenge-tokenization)** | ERC-721 minting, transfers and onchain ownership, with IPFS metadata pinned via Pinata | [live](https://speed-run-ethereum-challenge-tokenization.vercel.app) · [contract](https://sepolia.etherscan.io/address/0x76F287F1219bEd724417706251001bE4ab9151Ed#code) |
+| 1 | **[Tokenization](https://github.com/CharlesChinedum/speedrun-eth-01-tokenization)** | ERC-721 minting, transfers and onchain ownership, with IPFS metadata pinned via Pinata | [live](https://speed-run-ethereum-challenge-tokenization.vercel.app) · [contract](https://sepolia.etherscan.io/address/0x76F287F1219bEd724417706251001bE4ab9151Ed#code) |
 
 ## 🔐 Security research — [@the-africandev](https://github.com/the-africandev)
 
