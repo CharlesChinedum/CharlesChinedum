@@ -8,6 +8,7 @@ I'm a **Smart Contract & Fullstack Engineer**. I write and test **Solidity** wit
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[Payday](https://github.com/CharlesChinedum/payday)** · [live demo](https://paydayhq.vercel.app) | Per-second USDC payroll on NEAR: workers watch their pay build up by the second and can withdraw any time, without paying gas. Gasless relayer, NEAR Intents cash-out, on-chain payslips and DAO payroll. Built for the NEAR Hackathon and running on NEAR testnet, with 70+ contract and 95 web tests, reproducible builds, and three rounds of AI-assisted security review ([AUDIT.md](https://github.com/CharlesChinedum/payday/blob/main/AUDIT.md)) | Rust, NEAR, Next.js, TypeScript |
 | **[PaymentStream](https://github.com/CharlesChinedum/payment-streams)** | Linear ERC20 payment streaming — salaries, vesting, and grants paid by the second. Fee-on-transfer aware; unit + fuzz + invariant tested with exact-accounting and solvency invariants | Solidity, Foundry |
 | **[BulkPayment](https://github.com/CharlesChinedum/crypto-bulk-payment)** | Non-custodial USDC bulk disbursement, **live on [Base mainnet](https://basescan.org/address/0x1149A14D6604940776b6569002F15fd32d478A58)** — one transaction, many recipients, the contract never holds funds | Solidity, Foundry, Base |
 | **[Geodrop](https://github.com/CharlesChinedum/geodrop)** · [site](https://www.geodrop.online/) | Turns crypto marketing budgets into real people in real places — physical bounties that put verified users on the map | TypeScript, Next.js |
@@ -35,13 +36,13 @@ Completed challenges from [Speedrun Ethereum](https://speedrunethereum.com), eac
 
 I audit smart contracts competitively and independently:
 
-- **1 Critical + 2 High** confirmed across HackenProof audit contests (TipRun, 0xMarkets/Cartha) — all triage-validated, all with runnable Foundry PoCs
+- **2 Critical + 2 High** confirmed across HackenProof programs (TipRun, 0xMarkets/Cartha, Zendex DualDefense) — all triage-validated, with runnable Foundry PoCs
 - **5th of 22** in CertiK's "Billion Dollar AI Auditor" challenge — root-cause analysis of 25 historical exploits, $162.8M in scored loss value
 - Full findings, writeups, and methodology: **[security-research](https://github.com/the-africandev/security-research)**
 
 ## ⚙️ Tech I work with
 
-- **Smart contracts** — Solidity, Foundry (unit / fuzz / invariant testing), OpenZeppelin · EVM (Base, Ethereum) · Solana
+- **Smart contracts** — Solidity, Foundry (unit / fuzz / invariant testing), OpenZeppelin · EVM (Base, Ethereum) · Rust (NEAR, near-sdk) · Solana
 - **Languages** — TypeScript, JavaScript, Go, Rust
 - **Frontend** — React, Next.js, Vue, Nuxt, Astro, Tailwind CSS
 - **Backend** — Node.js, Express, Axum, MongoDB, Firebase
